@@ -34,10 +34,10 @@ global.footer = 'iSand' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCEGM7WZBgttMZ-j7LOxB70g'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/FlVBNNhgt8PFXcyKcYJsih'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.ig = 'https://instagram.com/isandgt'
+global.mygc = 'https://chat.whatsapp.com/LkJgyW7KzHS6siUKsdavwE'
+global.myweb = 'https://s.id/isandgt'
+global.email = 'adjiari97@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
