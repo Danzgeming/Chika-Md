@@ -22,6 +22,7 @@ exports.list = (pushname) => {
 exports.allmenu = (prefix, pushname, botname, time, salam) => {
 return`  _Selamat ${salam} kak ${pushname}_
 
+  *👑 Bot By : iSandGT*
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
 
@@ -427,6 +428,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *≻* IsandGT
   `
 }
 
@@ -468,7 +470,7 @@ Thanks!
   *≻* Run Bot 20k (1 bulan)
   *≻* Run Bot 25k (Permanen)
 
-  *Minat? Langsung chat aja ya cuy 🐦*
+  *Minat? Langsung chat owner aja langsung*
 
   *Contact person Owner* :
   wa.me/${ownernomer}
